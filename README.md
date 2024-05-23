@@ -1,6 +1,6 @@
 - 👋 Hi there, I’m Bhuvan Devarsu.
 - 👀 I’m interested in computer science internships in the fields of software engineering, AI, web dev (frontend and backend), data science, and database management.
-- 🌱 I’m currently learning how to be a better programmer and team member.
+- 🌱 I’m currently a research fellow under Dr. Doug H. Hamilton at the University of Maryland, College Park's Department of Astronomy.
 - 💞️ I’m looking to collaborate on any project!
 - 📫 How to reach me: bhuvandevarsu@gmail.com, linkedin.com/in/bhuvan-devarsu.
 
